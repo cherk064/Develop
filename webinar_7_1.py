@@ -2,7 +2,7 @@ from tkinter import *
 
 def button_1():
     name_result.setvar()
-
+test=0
 root=Tk()
 root.title("приложение")
 root.geometry("500x300")
