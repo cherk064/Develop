@@ -8,5 +8,8 @@ for i in range(c-1):
         if a[j]>a[j+1]:
             a[j], a[j+1] = a[j+1], a[j]
 print(a)
-for v in range()
-
+for v in range(c-1):
+    if a[v]!=b[v]:
+        print("они не равны")
+    else:
+        print("они равны")
