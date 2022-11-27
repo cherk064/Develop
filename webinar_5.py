@@ -5,4 +5,4 @@ for i in range(n):
     for j in range(n):
         temp.append(int(input()))
     a.append(temp)
-print(a[n+1])
+print(a)
